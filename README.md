@@ -47,4 +47,4 @@ Se você também está interessado em Node.js, JWT ou gostaria de compartilhar s
 
 Você pode me encontrar em:
 
--
+- https://www.linkedin.com/in/ramon-lirani-8941a0193/
